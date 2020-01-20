@@ -28,7 +28,7 @@ public class RoundTableController {
     }
 
     /**
-     * 获取最受欢迎的四条圆桌
+     * 获取点击量最高的前四条
      * @return  Result
      */
     @GetMapping(value = "/topFour")

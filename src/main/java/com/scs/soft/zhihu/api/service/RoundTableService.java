@@ -1,10 +1,7 @@
 package com.scs.soft.zhihu.api.service;
 
 import com.scs.soft.zhihu.api.common.Result;
-import com.scs.soft.zhihu.api.entity.RoundTable;
 
-import java.util.List;
-import java.util.Map;
 
 /**
  * @author l恋
