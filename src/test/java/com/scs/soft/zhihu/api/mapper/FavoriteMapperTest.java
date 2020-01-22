@@ -8,7 +8,6 @@ import org.springframework.boot.test.context.SpringBootTest;
 import javax.annotation.Resource;
 import java.util.List;
 
-import static org.junit.jupiter.api.Assertions.*;
 
 /**
  * @author l恋
